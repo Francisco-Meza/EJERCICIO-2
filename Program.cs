@@ -4,6 +4,7 @@ namespace _2
 {
     class Program
     {
+        //-- COMENTARIO DE PRUEBA --
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
